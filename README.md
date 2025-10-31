@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 EventManager – Full‑Stack Event Management System
 
 Overview
@@ -93,3 +94,6 @@ License
 MIT
 
 
+=======
+# EVENT_MANAGEMENT_SYSTEM
+>>>>>>> 39c478a814ff4e742eb615dfb25d18b7a592d027
