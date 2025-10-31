@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 EventManager – Full‑Stack Event Management System
 
 Overview
@@ -90,10 +90,7 @@ Deployment Notes
 - Serve frontend build (Vite `dist/`) via your host or CDN
 - Run backend as a service (PM2/Docker) and ensure CORS allows your frontend origin
 
-License
-MIT
 
 
 =======
 # EVENT_MANAGEMENT_SYSTEM
->>>>>>> 39c478a814ff4e742eb615dfb25d18b7a592d027
